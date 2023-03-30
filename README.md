@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott
 - 👀 I’m interested in Improving my programming abilitys.
-- 🌱 I’m currently learning from https://github.com/jwasham/coding-interview-university I have also studied Computer Games Development at Ulster University.
+- 🌱 I’m currently learning from https://theodinproject.com I have also studied Computer Games Development at Ulster University.
 - 💞️ I’m looking to collaborate on any projects that would help me further my ability as a programmer. 
 - 📫 How to reach me Stoty321@gmail.com
 
